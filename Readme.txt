@@ -1,0 +1,2 @@
+Here is the dataset corresponding to the paper titled "A Dataset and Model for Personalized Chinese Stance Detection." If you are interested in the work presented in the paper and wish to conduct further research, please cite the paper using the following information: Qingying Sun, Jiayao Jian, Shufan Fu, Qian Xi, Jiahong Li, Guodong Zhou, and Zhongqing Wang. 2026. A Dataset and Model for Personalized Chinese Stance Detection. ACM Trans. Asian Low-Resour. Lang.
+
